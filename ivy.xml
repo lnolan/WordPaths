@@ -1,0 +1,6 @@
+<ivy-module version="2.0">
+    <info organisation="apache" module="GiltJMeter"/>
+    <dependencies>
+        <dependency org="commons-io" name="commons-io" rev="2.1"/>
+    </dependencies>
+</ivy-module>
